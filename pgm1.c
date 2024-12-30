@@ -1,4 +1,6 @@
 #include<stdio.h>
+/*Program to accept the data of certain number of students and create
+function for searching by name*/
 struct student{
 		char name[20];
 		int rn;
