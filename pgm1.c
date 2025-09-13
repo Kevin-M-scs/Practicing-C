@@ -74,4 +74,3 @@ int scmp(char str1[],char str2[]){
 	if(flag==0)return 0;//strings are same
 	else return 1;//strings are different	
 }
-
